@@ -2,3 +2,7 @@
 name = "guessplay"
 version = "0.1.0"
 authors = ["Abhishek Kumar <abhishek.kumar@null.net>"]
+
+[dependencies]
+
+rand="0.3.0"
