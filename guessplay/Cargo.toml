@@ -1,0 +1,4 @@
+[package]
+name = "guessplay"
+version = "0.1.0"
+authors = ["Abhishek Kumar <abhishek.kumar@null.net>"]
