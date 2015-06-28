@@ -6,6 +6,7 @@ use rand::Rng;
 
 fn main() {
 	loop {
+		println!("\n");
     	println!("Hurry ! guess a number between 1 and 100 quick !!");
     	println!("Now quickly enter what you have guessed !");
     
